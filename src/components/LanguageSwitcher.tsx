@@ -1,4 +1,5 @@
-// src/components/LanguageSwitcher.tsx
+// APINZON 2023
+// Try the code for language change English and Spanish
 import React, { useContext } from 'react';
 import { LanguageContext } from '../services/i18n';
 

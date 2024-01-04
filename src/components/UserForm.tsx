@@ -1,4 +1,4 @@
-// src/components/UserForm.tsx
+// APINZON 2024 Component with User form with CRUD functions
 import React, { useState, useEffect } from 'react';
 import User from '../models/User';
 

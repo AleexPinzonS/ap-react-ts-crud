@@ -1,0 +1,10 @@
+# APINZON 2023
+
+# Follow the following steps to run the project:
+
+# 1.Ensure you have Node.js and npm installed.
+# 2.Clone the project: git clone https://github.com/AleexPinzonS/ap-react-ts-crud.git
+# 3.Navigate to the project directory: cd my-react-ts-spa.
+# 4.Install dependencies: npm install.
+# 5.Run the application: npm start.
+# 6.Visit http://localhost:3000 in your browser.

@@ -1,4 +1,4 @@
-// src/models/User.ts
+// APINZON 2024 User interface definition
 interface User {
     id: number;
     name: string;

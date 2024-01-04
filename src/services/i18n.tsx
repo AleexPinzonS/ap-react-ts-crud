@@ -1,4 +1,4 @@
-// src/services/i18n.tsx
+// APINZON 2024 Language controler
 import React, { createContext, useState } from 'react';
 
 interface LanguageContextProps {

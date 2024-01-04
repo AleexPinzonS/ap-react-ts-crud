@@ -1,4 +1,4 @@
-// src/components/UserList.tsx
+// APINZON 2024 Used for list the registered Users
 import React from 'react';
 import { Link } from 'react-router-dom';
 import User from '../models/User';
